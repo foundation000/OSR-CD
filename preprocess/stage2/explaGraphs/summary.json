@@ -1,0 +1,20 @@
+{
+  "sample_id": 1382.5,
+  "num_nodes": 5.1677512653651485,
+  "num_edges": 4.246203904555315,
+  "num_induced_nodes": 5.1677512653651485,
+  "num_induced_edges": 4.246203904555315,
+  "num_candidates": 7.763195950831526,
+  "num_selected": 1.0010845986984815,
+  "objective": 0.9539291833055841,
+  "mean_pairwise_similarity": 0.0009299290256755575,
+  "latency_sec": 0.030630492250383203,
+  "selected_node_count": 5.1677512653651485,
+  "selected_edge_count": 4.246203904555315,
+  "llm_eval_ready": 1.0,
+  "method": "osrcd",
+  "encoder": "bert",
+  "bert_model": "models/bert-base-uncased",
+  "num_samples": 2766,
+  "total_runtime_sec": 85.2173330783844
+}
